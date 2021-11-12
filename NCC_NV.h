@@ -4,15 +4,12 @@
 using namespace std;
 class NCC_NV
 {
-    public :
-        static ifstream FileIn;
-        static ofstream FileOut;
-    protected:
-        string _Ten;
-        string _ID;
-    public :
-        NCC_NV(string ="", string = "");
-        ~NCC_NV();
-        virtual void Nhap();
-        virtual void Xuat();
+protected:
+    string _Ten;
+    string _ID;
+public:
+   /* NCC_NV();
+    ~NCC_NV();*/
+    virtual void Nhap(fstream&);
+    virtual void Xuat(fstream&);
 };
