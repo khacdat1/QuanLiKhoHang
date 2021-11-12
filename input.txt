@@ -1,4 +1,6 @@
-Nguyen Khac Dat, 102200125	
-TH True Milk, 1902
-Nguyen Duy, 102200124
-Bia Larue, 1903
+5
+V, TH TRUEMILK, 1022, 102 Da Son, Mien Trung
+C, TH TRUEMILK, 1022, 102 Da Son, Mien Trung
+V, TH TRUEMILK, 1022, 102 Da Son, Mien Trung
+C, TH TRUEMILK, 1022, 102 Da Son, Mien Trung
+V, TH TRUEMILK, 1022, 102 Da Son, Mien Trung
